@@ -1,0 +1,4 @@
+product/priv-app/PrebuiltGmsCoreForClockworkWearable/PrebuiltGmsCoreForClockworkWearable.apk.xz
+vendor/firmware/mcufirmware/OPWWE234/system_img.xz
+vendor/firmware/mcufirmware/OWWE231/system_img.xz
+vendor/firmware/mcufirmware/OPWWE231/system_img.xz

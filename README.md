@@ -1,0 +1,14 @@
+# monaco-user 13 TWR7.231113.001 34 release-keys
+- manufacturer: oneplus
+- platform: monaco
+- codename: OPWWE231
+- flavor: monaco-user
+- release: 13
+- id: TWR7.231113.001.OPWWE231_11_A.144.250623
+- incremental: 01
+- tags: release-keys
+- fingerprint: OnePlus/OPWWE231/OPWWE231:13/TWR7.231113.001.OPWWE231_11_A.144.250623/01:user/release-keys
+- is_ab: false
+- brand: OnePlus
+- branch: monaco-user-13-TWR7.231113.001-34-release-keys
+- repo: oneplus_opwwe231_dump
